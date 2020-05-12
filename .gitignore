@@ -1,0 +1,13 @@
+datasets
+models
+__pycache__
+demo.py
+infer.py
+face_extract.py
+test1.ipynb
+webcam.py
+infer_webcam.py
+.dockerignore
+.ipynb_checkpoints
+.spyproject
+docker_run.sh
