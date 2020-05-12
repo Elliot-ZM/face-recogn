@@ -27,7 +27,8 @@ Realtime face recognition pipeline using pytorch. Here, [mtcnn](https://arxiv.or
 python3 collect_face.py --mode webcam --interval 15 --total-image 30 --save-path datasets/users
 
 ```
-With this command, you need to type user name. After it, just press *`'esc'`* to close the webcam.[don't click the [x] button on webcam frame. this will crash the system from opencv] 
+With this command, you need to type user name. After it, just press *`'esc'`* to close the webcam.
+**Beware** Don't click the [x] button on webcam frame. This will crash the system from opencv. 
 **NOTE** : This user name will create a folder for training stage.
 
 ```bash
